@@ -37,3 +37,33 @@ Ruksana’s Affection:
 -1 for not sleeping in the camp (females only) 
 +1 for gladly accepting her 
 -2 for refusing and saying she’s a savage
+
+<br>
+<br>
+<br>
+
+## Sidequests
+none - guess should do after have all party members, at least Ruksana:
+- A Guardian’s Task
+- Revenge
+- Oakshire’s Secret = unlocked after enter 2nd town
+- 
+
+<br>
+
+- Visit Cassandra!
+  - Mere = less than 10 CP 
+  - Ruksana = 6+ CP
+  - Have Clawyn and Galhart in party
+- Nestro’s Task
+  - what is completing quest?? idk check values for morale and everything.
+  - Mere = kill him
+  - Ruksana = kill him or don't have in party
+- Paladin’s Pledge
+  - Mere = 10+ CP
+  - Ruksana = 7+ CP
+- Amulet of Light = unlocked after enter 2nd town
+  - Accept = Have 10+ cp yourself; Mere less than 10 cp
+  - Kill him = no requirements
+- Lost Boy = liberate summeredge
+ - ignore the boy and defend the orcs
