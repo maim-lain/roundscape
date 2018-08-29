@@ -47,7 +47,6 @@ none - guess should do after have all party members, at least Ruksana:
 - A Guardian’s Task
 - Revenge
 - Oakshire’s Secret = unlocked after enter 2nd town
-- 
 
 <br>
 
@@ -66,4 +65,4 @@ none - guess should do after have all party members, at least Ruksana:
   - Accept = Have 10+ cp yourself; Mere less than 10 cp
   - Kill him = no requirements
 - Lost Boy = liberate summeredge
- - ignore the boy and defend the orcs
+  - ignore the boy and defend the orcs
