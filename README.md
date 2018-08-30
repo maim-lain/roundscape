@@ -73,21 +73,18 @@ none - guess should do after have all party members, at least Ruksana:
 #### Noble
 - Male Player x Mother
 - Male Player x Mother and Tish
-- +1 Mere aff
 - -2 Morality
 
 #### Thief
 - Male Player x Maid
-- +3 Mere aff
+- +2 Mere aff
 - +2 Ruksana aff
 
 #### Farmer
 - Male Player x Mother
-- +1 Mere aff
 
 #### Templar
 - Male Player x Vestra (demon)
-- +1 Mere aff
 
 #### Soldier
 - Player x Tilanesse Siblings
