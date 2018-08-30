@@ -21,11 +21,11 @@
 <br>
 
 #### Search for Answers
+- Enter the cave west of Oakshire
+- In the second section of the cave there open the chest to the right and take the pickaxe to the left
+- Click the pile of rocks blocking the north path
 - 
-enter the cave found west of Oakshire, in the same map as the Temple.
-
-Go to the Orc Camp:
-fight your way through the cave. In the second level there’s a pile of rocks  that  require the  pickaxe  found  in  the  left part of the cave to clear, there’s also an item to the right. After exiting the cave, go north to the Orc Camp.
+go north to the Orc Camp.
 
 Talk  to  Ruksana:
 in  the  camp,  talk  to Ruksana about Murkhal’s plans and how to counter his operations. She will offer to join the party and to have sex with a male player. With  or  without  Ruksana,  proceed  east  to Slinsk,  were  the  player  will  be  able  to  get  in  a boat to the various locations she indicated. The next  three  quests  can  be  completed  in  any order,  but  the  Novos  quest  has  higher  level encounters, so it’s recommended to leave it for last.
@@ -58,7 +58,7 @@ none - guess should do after have all party members, at least Ruksana:
   - Have Clawyn and Galhart in party
 - Nestro’s Task
   - Have Ruksana and kill him
-- Paladin’s Pledge
+- Paladin’s Pledge = morality greater than -5
   - Mere = 10+ CP
   - Ruksana = 7+ CP
 - Amulet of Light = unlocked after enter 2nd town
