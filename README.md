@@ -57,9 +57,7 @@ none - guess should do after have all party members, at least Ruksana:
   - Ruksana = 6+ CP
   - Have Clawyn and Galhart in party
 - Nestro’s Task
-  - what is completing quest?? idk check values for morale and everything.
-  - Mere = kill him
-  - Ruksana = kill him or don't have in party
+  - Have Ruksana and kill him
 - Paladin’s Pledge
   - Mere = 10+ CP
   - Ruksana = 7+ CP
@@ -68,7 +66,6 @@ none - guess should do after have all party members, at least Ruksana:
   - Kill him = no requirements
 - Lost Boy = liberate summeredge
   - ignore the boy and defend the orcs
-
 
 <br>
 
