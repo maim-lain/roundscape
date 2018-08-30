@@ -1,0 +1,4 @@
+- Changed save slots to 10
+- The game will automatically start in fullscreen mode
+- Always Dash and Instant Text are enabled by default
+- tried to make an auto open lootboxes item but it needs more testing
