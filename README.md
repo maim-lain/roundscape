@@ -1,9 +1,11 @@
 # Roundscape Adorevia Walkthrough
 
 #### Reclaiming the Castle
+- Activate the fast travel crystal in the center of Oakshire
 - Go to the castle using the southwest path in Oakshire
 - Talk to the person at the entrance
 - Kill the skeletons
+- Tell the person you've killed the skeletons
 
 <br>
 
