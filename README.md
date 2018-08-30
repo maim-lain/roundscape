@@ -12,8 +12,8 @@
 #### Road to Slinsk
 - Return to Oakshire
 - Talk to the girl near the north exit
-- Leave through the north exit and kill five wolf packs
-  - Return to Oakshire then leave through the north exit again to make them respawn
+- Kill five wolf packs in the forest north of Oakshire and in the area northeast of the forest
+  - Reentering an area will cause the wolves to respawn
 - Return to the girl
 - You should be level 5 now so go back to Whitemoon castle and choose a perk at the mirror
 - xxxxxxxxxxxxxxxxx Come back later and kill bridge dude
