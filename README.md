@@ -4,7 +4,6 @@
 - Go to the castle using the southwest path in Oakshire
 - Talk to the person at the entrance
 - Kill the skeletons
-- demon aff
 
 <br>
 
@@ -14,8 +13,6 @@
 - Leave through the north exit and kill five wolf packs
   - Return to Oakshire then leave through the north exit again to make them respawn
 - Return to the girl
-- If you are female:
-  - Talk to the sailor in the inn and offer a blowjob
 - xxxxxxxxxxxxxxxxx Come back later and kill bridge dude
 
 #### Search for Answers
