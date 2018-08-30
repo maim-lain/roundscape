@@ -15,11 +15,14 @@
 - Leave through the north exit and kill five wolf packs
   - Return to Oakshire then leave through the north exit again to make them respawn
 - Return to the girl
+- You should be level 5 now so go back to Whitemoon castle and choose a perk at the mirror
 - xxxxxxxxxxxxxxxxx Come back later and kill bridge dude
+
+<br>
 
 #### Search for Answers
 - 
-enter the cave found west of Oakshire, in the same map as the Temple. If the player went through the bridge, head directly to the Orc Camp.
+enter the cave found west of Oakshire, in the same map as the Temple.
 
 Go to the Orc Camp:
 fight your way through the cave. In the second level there’s a pile of rocks  that  require the  pickaxe  found  in  the  left part of the cave to clear, there’s also an item to the right. After exiting the cave, go north to the Orc Camp.
