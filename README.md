@@ -30,14 +30,25 @@
 - Agree to her offer to stay
 - Tell her you are happy to have her join
 
+- Go right outside of the orc camp and walk east to enter Slinsk
+- Ask Meredith if something is wrong, encourage her, and tell her you will help
+- Keep walking right until you see the fast travel crystal, then activate it and travel to Oakshire
+
 <br>
+
+#### Amulet of Light
+- 
+
 <br>
+
+#### A Guardian’s Task, Revenge, and Nestro's Task
+- Accept = Mere less than 10 cp
+- Kill him = no requirements, best option
+
 <br>
 
 ## Sidequests
 none - guess should do after have all party members, at least Ruksana:
-- A Guardian’s Task
-- Revenge
 - Oakshire’s Secret = unlocked after enter 2nd town
 
 <br>
@@ -49,9 +60,6 @@ none - guess should do after have all party members, at least Ruksana:
 - Nestro’s Task
   - Have Ruksana and kill him
 - Paladin’s Pledge = morality above -5
-- Amulet of Light = unlocked after enter 2nd town
-  - Accept = Mere less than 10 cp
-  - Kill him = no requirements, best option
 - Lost Boy = liberate summeredge
   - ignore the boy and defend the orcs
 
