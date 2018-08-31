@@ -25,11 +25,10 @@
 - In the second section of the cave there open the chest to the right and take the pickaxe to the left
 - Click the pile of rocks blocking the north path
 - Go north to the orc camp
-- Responses:
-  - If farmer origin:
-    - "If you didn't kill my father, then who did?"
-  - "I can't say no to that kind of offer!"
-  - "I'd be happy to have you along, Ruksana."
+- If farmer origin:
+  - "If you didn't kill my father, then who did?"
+- "I can't say no to that kind of offer!"
+- "I'd be happy to have you along, Ruksana."
 
 <br>
 <br>
