@@ -26,9 +26,9 @@
 - Click the pile of rocks blocking the path above
 - Go north to the orc camp
 - If farmer origin:
-  - "If you didn't kill my father, then who did?"
-- "I can't say no to that kind of offer!"
-- "I'd be happy to have you along, Ruksana."
+  - Acknowledge that she didn't kill your father
+- Agree to her offer to stay
+- Tell her you are happy to have her join
 
 <br>
 <br>
