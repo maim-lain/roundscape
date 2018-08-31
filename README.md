@@ -30,14 +30,36 @@
 - Agree to her offer to stay
 - Tell her you are happy to have her join
 
+<br>
+
+#### Oakshire Sidequests
 - Go right outside of the orc camp and walk east to enter Slinsk
 - Ask Meredith if something is wrong, encourage her, and tell her you will help
 - Keep walking right until you see the fast travel crystal, then activate it and travel to Oakshire
 
 <br>
 
+#### Paladin's Pledge
+- Travel to and enter the church west of Oakshire
+- Open the chest in the top right and talk to the head nun
+- Go to the area with the Warlock tower then use the paladin's map and follow the path
+- Return to the church, tell the Succubus you had sex with the goddess, and ask what she can do for you, and join her
+- Talk to the succubus:
+  - "With words like that.."
+  - "Now I'm the offended one."
+  - "I think you'd like me to think that."
+  - "I'll enjoy your company."
+  
+<br>
+
+#### cave
+- leave and go right
+
+<br>
+
 #### Amulet of Light
-- 
+- Enter the inn and talk to the man in the top left
+- Let him sleep with Meredith or lure him outside
 
 <br>
 
@@ -48,7 +70,6 @@
 <br>
 
 ## Sidequests
-none - guess should do after have all party members, at least Ruksana:
 - Oakshire’s Secret = unlocked after enter 2nd town
 
 <br>
