@@ -22,8 +22,8 @@
 
 #### Search for Answers
 - Enter the cave west of Oakshire
-- In the second section of the cave there open the chest to the right and take the pickaxe to the left
-- Click the pile of rocks blocking the north path
+- In the second section of the cave go right and open the chest then go left and take the pickaxe
+- Click the pile of rocks blocking the path above
 - Go north to the orc camp
 - If farmer origin:
   - "If you didn't kill my father, then who did?"
