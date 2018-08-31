@@ -30,15 +30,9 @@ go north to the Orc Camp.
 Talk  to  Ruksana:
 in  the  camp,  talk  to Ruksana about Murkhal’s plans and how to counter his operations. She will offer to join the party and to have sex with a male player. With  or  without  Ruksana,  proceed  east  to Slinsk,  were  the  player  will  be  able  to  get  in  a boat to the various locations she indicated. The next  three  quests  can  be  completed  in  any order,  but  the  Novos  quest  has  higher  level encounters, so it’s recommended to leave it for last.
 
-Ruksana’s Affection: 
-+1 if you believe her (Farm Origin only) 
--1 if you do not (Farm Origin only) 
-+2 sleeping with her (Males only) 
--2 for saying she’s disgusting (Males only) 
-+1 for sleeping in the camp (females only) 
--1 for not sleeping in the camp (females only) 
-+1 for gladly accepting her 
--2 for refusing and saying she’s a savage
+- If farmer origin: "If you didn't kill my father, then who did?"
+- "I can't say no to that kind of offer!"
+- "I'd be happy to have you along, Ruksana."
 
 <br>
 <br>
@@ -58,15 +52,16 @@ none - guess should do after have all party members, at least Ruksana:
   - Have Clawyn and Galhart in party
 - Nestro’s Task
   - Have Ruksana and kill him
-- Paladin’s Pledge = morality greater than -5
-  - Mere = 10+ CP
-  - Ruksana = 7+ CP
+- Paladin’s Pledge = morality above -5
 - Amulet of Light = unlocked after enter 2nd town
-  - Accept = Have 10+ cp yourself; Mere less than 10 cp
-  - Kill him = no requirements
+  - Accept = Mere less than 10 cp
+  - Kill him = no requirements, best option
 - Lost Boy = liberate summeredge
   - ignore the boy and defend the orcs
 
+<br>
+<br>
+<br>
 <br>
 
 #### Noble
@@ -81,6 +76,7 @@ none - guess should do after have all party members, at least Ruksana:
 
 #### Farmer
 - Male Player x Mother
+- +1 Ruksana aff
 
 #### Templar
 - Male Player x Vestra (demon)
